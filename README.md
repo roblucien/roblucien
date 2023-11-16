@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @roblucien
 - 👀 I’m interested in everything Linux/Unix, OpenSource and sysadmin
 - 🌱 I’m currently learning FreeBSD
-- 💞️ I’m looking to collaborate on amy beginer like project
-- 📫 How to reach me: search me on LinkedIn
+- 💞️ I’m looking to collaborate on any beginer project
+- 📫 How to reach me: DM me on LinkedIn
 
 <!---
 roblucien/roblucien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
