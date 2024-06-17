@@ -1,0 +1,29 @@
+Execute commands as root: doas
+
+Command doas(1) is a sudo alternative ported from OpenBSD. It's ideal for single-user systems that don't require the elaborate features - and more complex configuration - of sudo.
+
+Installation and configuration are performed  while login as root.
+
+Install ...
+
+# pkg install doas
+
+A sample configuration exists at /usr/local/etc/doas.conf.sample.
+
+Create the /usr/local/etc/doas.conf file ...
+
+# touch /usr/local/etc/doas.conf
+
+... Edit the freshly created file and grant (example) user foo the privileges of root ...
+
+# permit nopass foo as root
+
+... Save with CTRL+O and exit with CTRL+X ( or simple use the later adn the system will ask you if you want to save your change).
+
+... Log out of the root account and log in as your regular user ( hee: foo)
+
+Now I can run commands as my user that would normally require root ...
+
+$ doas pkg install <some_package>
+
+.. Et Voila!
