@@ -3,12 +3,13 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a technology enthusiast with a passion for Unix/Linux, everything Open Source and a dedication to solving complex problems. I work mostly as Linux/Windows SysAdmin, Network Support Specialist. I recently made the bid jump to CyberSecurity. I'm currently exploring the DevSecOps and Cloud Security world and learn more on the way.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science over the past 20 years has led me to develop a passion for networking, Information system managementand more recently cybersecurity, and I am now eager to transition into this field, specifically aiming to join any company as an Information Security Analyst.
+
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
