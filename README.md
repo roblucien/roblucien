@@ -133,7 +133,7 @@ An **enterprise-grade immigrant services portal** being engineered from the grou
 
 ---
 
-### ✦ [porteouverte.4veh.org] — Online Bible Study Platform (https://4veh.org)*(In Development)*
+### ✦ [porteouverte.4veh.org](https://4veh.org) *(An Online Bible Study Platform In Development)*
 
 An **educational platform for Bible study and structured online learning**, built from scratch with purpose at the center.
 
