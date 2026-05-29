@@ -264,6 +264,23 @@ Certifications aren't the destination — they're waypoints. The real credential
 
 <br/>
 
+### 4VEH — Voix Évangélique d'Haïti · Morne-Rouge, Cap-Haïtien
+
+**4VEH** is one of Haiti's most recognized evangelical broadcasters — a faith-driven radio and television station that has carried the Gospel across the island for decades, transmitting from the hills of Morne-Rouge, Cap-Haïtien.
+
+For **12+ years**, I've been their voluntary IT infrastructure — the person who keeps the systems running so the mission keeps broadcasting.
+
+The work spans the full stack:
+- Deployed enterprise virtualization on **Proxmox** running on an HP server at the main facility
+- Redesigned core LAN from the ground up — new router, restructured logical architecture
+- Managed and updated their bilingual **(FR/EN) website** across multiple iterations
+- Supported their **music and video platform** for online audiences worldwide
+- On-site user support, troubleshooting, and systems administration — consistently, for over a decade
+
+> *No contract. No paycheck. Just a calling answered, year after year.*
+
+<br/>
+
 ### Y2H — Youth, Help Haiti
 
 **Y2H** is a registered nonprofit initiative with a single focus: *building a better future for Haitian communities through action, not promises.*
