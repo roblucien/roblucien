@@ -83,8 +83,8 @@ I build with **FreeBSD** when I want resilience. With **Linux** when I want flex
 ROB      [infrastructure]   → Homelab architecture, self-hosted service stacks
 ROB      [web-dev]          → Building real-world platforms with vanilla HTML/JS/Bootstrap
 ROB      [faith-tech]       → SudoServe — a God-centered engineering initiative
-ROB      [nonprofit]        → Y2H Haiti, La Paix Foundation — tech for community impact
-ROB      [learning]         → Deepening frontend craft, IaC pipelines, open source contributions
+ROB      [nonprofit]        → 4VEH, immiGrand, Y2H, La Paix Foundation — tech for community impact
+ROB      [learning]         → Deepening frontend craft, IaC pipelines, open source immersion
 ```
 
 ---
@@ -278,6 +278,24 @@ The work spans the full stack:
 - On-site user support, troubleshooting, and systems administration, consistently, for over a decade
 
 > *With prayers. With support. With encouragement. A calling answered, year after year.*
+
+<br/>
+
+### immiGrand — Quebec, Canada
+
+The name is intentional. *immiGRAND* — because those who come from afar are not burdens. They are builders. The French word **grand** says it all: great, resilient, strong. That is who immiGrand was built to serve — and to celebrate.
+
+**immiGrand** is a Canadian nonprofit dedicated to helping newcomers navigate the complexity of immigration, integrate into their communities with dignity, and be recognized for the greatness they bring.
+
+Their annual gala — **N.E.V.A.** *(Nos Étoiles Venues d'Ailleurs — Our Stars From Afar)* — puts the spotlight where it belongs: on immigrants in the Quebec region who have built something remarkable in their adopted home.
+
+I support immiGrand across every layer of their digital presence:
+- Website development, maintenance, and continuous updates
+- Branding and digital identity — shaping how they show up to the world
+- Full IT support for organizational and outreach operations
+- Technical backbone for campaigns and events, including the N.E.V.A. gala
+
+> *The community shows up for people. The infrastructure has to show up for the community.*
 
 <br/>
 
