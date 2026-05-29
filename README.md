@@ -266,18 +266,18 @@ Certifications aren't the destination — they're waypoints. The real credential
 
 ### 4VEH — Voix Évangélique d'Haïti · Morne-Rouge, Cap-Haïtien
 
-**4VEH** is one of Haiti's most recognized evangelical broadcasters — a faith-driven radio and television station that has carried the Gospel across the island for decades, transmitting from the hills of Morne-Rouge, Cap-Haïtien.
+**4VEH** is one of Haiti's most recognized evangelical broadcasters — a faith-driven radio and television station that has carried the Gospel across the island for decades, transmitting from the hills of Cap-Haïtien.
 
-For **12+ years**, I've been their voluntary IT infrastructure — the person who keeps the systems running so the mission keeps broadcasting.
+For **12+ years**, I've been their voluntary IT infrastructure — the person who  helps keep the systems running so the mission keeps broadcasting.
 
 The work spans the full stack:
 - Deployed enterprise virtualization on **Proxmox** running on an HP server at the main facility
 - Redesigned core LAN from the ground up — new router, restructured logical architecture
 - Managed and updated their bilingual **(FR/EN) website** across multiple iterations
-- Supported their **music and video platform** for online audiences worldwide
-- On-site user support, troubleshooting, and systems administration — consistently, for over a decade
+- Supported their **digital platform** for online audiences worldwide
+- On-site user support, troubleshooting, and systems administration, consistently, for over a decade
 
-> *No contract. No paycheck. Just a calling answered, year after year.*
+> *With prayers. With support. With encouragement. A calling answered, year after year.*
 
 <br/>
 
@@ -370,7 +370,7 @@ Every project is a step in that direction.
 |---|---|
 | 🌐 Website | [roblucien.com](https://roblucien.com) |
 | 💼 LinkedIn | [Rob Lucien](https://linkedin.com/in/roblucien) |
-| 🤝 La Paix Foundation | [lapaixfoundation.org](https://lapaixfoundation.org) |
+| 🤝 Radio-Tele 4VEH | [rlucien@4veh.org](mailto:rlucien@4veh.org) |
 | 📧 Email | [root@roblucien.com](mailto:root@roblucien.com) |
 
 Open to conversations about: open-source collaboration · infrastructure projects · mission-driven technology · nonprofit tech support · community impact
