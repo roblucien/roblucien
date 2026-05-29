@@ -266,9 +266,9 @@ Certifications aren't the destination — they're waypoints. The real credential
 
 ### 4VEH — Voix Évangélique d'Haïti · Morne-Rouge, Cap-Haïtien
 
-**4VEH** is one of Haiti's most recognized evangelical broadcasters — a faith-driven radio and television station that has carried the Gospel across the island for decades, transmitting from the hills of Cap-Haïtien.
+**4VEH** is one of Haiti's most recognized evangelical broadcasters, a faith-driven radio and television station that has carried the Gospel across the island for decades, transmitting from the hills of Cap-Haïtien.
 
-For **12+ years**, I've been their voluntary IT infrastructure — the person who  helps keep the systems running so the mission keeps broadcasting.
+For **12+ years**, I've been their voluntary IT infrastructure, the person who  helps keep the systems running so the mission keeps broadcasting.
 
 The work spans the full stack:
 - Deployed enterprise virtualization on **Proxmox** running on an HP server at the main facility
