@@ -108,7 +108,7 @@ The vision for SudoServe includes:
 
 ---
 
-### ✦ [EtudeNotaire.ca](https://etudenotaire.ca)
+### ✦ [Etudetoussaint.ca](https://etudetoussaint.ca)
 
 A **modern notary services website** built entirely from scratch — no frameworks, no templates, no shortcuts.
 
@@ -120,7 +120,7 @@ A **modern notary services website** built entirely from scratch — no framewor
 
 ---
 
-### ✦ [immigrand.org](https://immigrand.org) *(In Development)*
+### ✦ [portail.immigrand.org](https://immigrand.org) *(In Development)*
 
 An **enterprise-grade immigrant services portal** being engineered from the ground up.
 
@@ -133,7 +133,7 @@ An **enterprise-grade immigrant services portal** being engineered from the grou
 
 ---
 
-### ✦ 4veh.org — Online Bible Study Platform *(In Development)*
+### ✦ [porteouverte.4veh.org] — Online Bible Study Platform (https://4veh.org)*(In Development)*
 
 An **educational platform for Bible study and structured online learning**, built from scratch with purpose at the center.
 
