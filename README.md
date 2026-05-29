@@ -167,7 +167,7 @@ Features include:
 **Networking stack:** Cisco · Fortinet · Juniper · OPNsense · VPNs · Reverse proxies · Network hardening  
 **Self-hosted tools:** Caddy · Zabbix · GLPI · Samba · Tailscale · Podman  
 **Automation & scripting:** Bash · Shell · Infrastructure as Code · Learning Python  
-**Virtualization:** Proxmox · Sylve · Hybrid infrastructure · Jial & Bhyve · VM orchestration  
+**Virtualization:** Proxmox · Sylve · Hybrid infrastructure · Jail & Bhyve · VM orchestration  
 
 I run my own infrastructure. I self-host my own services. I believe in owning your stack.
 
