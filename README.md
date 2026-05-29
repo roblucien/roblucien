@@ -27,6 +27,12 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=roblucien&style=flat-square&color=4AF626&label=PROFILE+VIEWS)](https://github.com/roblucien)
 [![GitHub followers](https://img.shields.io/github/followers/roblucien?style=flat-square&color=4AF626&label=FOLLOWERS)](https://github.com/roblucien)
 
+<br/>
+
+[![Email](https://img.shields.io/badge/me%40roblucien.com-4AF626?style=flat-square&logo=minutemailer&logoColor=black)](mailto:me@roblucien.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-roblucien-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/roblucien)
+[![Website](https://img.shields.io/badge/roblucien.com-555555?style=flat-square&logo=firefox&logoColor=white)](https://roblucien.com)
+
 </div>
 
 ---
@@ -248,7 +254,7 @@ What began as curiosity is now a craft. A systems engineer who can ship interfac
 | Certified in Cybersecurity (CC) | ISC2 | Information Security |
 | CCNA | Cisco | Networking |
 | NSE Certifications | Fortinet | Network Security |
-| Certification | Juniper Networks | Routing & Switching |
+| JNCIA | Juniper Networks | Routing & Switching |
 
 Certifications aren't the destination — they're waypoints. The real credential is what you can build.
 
@@ -302,6 +308,10 @@ These aren't side projects. They are why the other projects exist.
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roblucien&bg_color=0d1117&color=4AF626&line=4AF626&point=ffffff&area=true&area_color=4AF62620&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<br/>
+
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=roblucien&theme=dark&bg_color=0d1117&title_color=4AF626&text_color=ffffff&border_color=30363d&layout=compact)](https://wakatime.com/@roblucien)
+
 </div>
 
 ---
@@ -311,7 +321,7 @@ These aren't side projects. They are why the other projects exist.
 Right now I'm actively investing in:
 
 - Frontend architecture patterns with vanilla tooling
-- Infrastructure as Code practices (Terraform, Ansible)
+- Infrastructure as Code pipelines — deepening Terraform proficiency
 - Open-source contribution workflows
 - Platform design and product thinking
 - Deepening FreeBSD administration and BSD ecosystem contributions
@@ -326,13 +336,12 @@ Right now I'm actively investing in:
 The vision is not a destination. It's a direction.
 
 A future where:
-- The tools I build serve real communities — in Haiti, in North America, and beyond
-- SudoServe becomes a recognized open-source initiative where technology and purpose intersect
-- My infrastructure work enables independent builders, nonprofits, and underserved communities to own their digital presence
-- The engineer I am becoming continues to grow — systems thinker, frontend craftsman, community builder, open-source contributor
+- SudoServe becomes a recognized open-source initiative where technology and faith intersect
+- Y2H and La Paix Foundation operate on purpose-built platforms — not borrowed tools
+- My infrastructure work enables nonprofits, independent builders, and underserved communities to own their digital presence
+- The engineer I'm becoming keeps growing: systems architect, frontend craftsman, open-source contributor, community builder
 
-I'm not building for a resume.
-I'm building for something that lasts.
+Every project is a step in that direction.
 
 ---
 
@@ -342,10 +351,10 @@ I'm building for something that lasts.
 
 | Platform | Link |
 |---|---|
-| 🌐 Website | [YOUR_WEBSITE](https://YOUR_WEBSITE) |
-| 💼 LinkedIn | [Rob Lucien](https://linkedin.com/in/YOUR_LINKEDIN) |
+| 🌐 Website | [roblucien.com](https://roblucien.com) |
+| 💼 LinkedIn | [Rob Lucien](https://linkedin.com/in/roblucien) |
 | 🤝 La Paix Foundation | [lapaixfoundation.org](https://lapaixfoundation.org) |
-| 📧 Email | your@email.com |
+| 📧 Email | [me@roblucien.com](mailto:me@roblucien.com) |
 
 Open to conversations about: open-source collaboration · infrastructure projects · mission-driven technology · nonprofit tech support · community impact
 
