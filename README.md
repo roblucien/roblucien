@@ -385,10 +385,10 @@ Open to conversations about: open-source collaboration · infrastructure project
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║   Rob Lucien                                                 ║
-║   Infrastructure Engineer · Open Source Builder             ║
-║   Systems Architect · Mission-Driven Technologist           ║
+║   Infrastructure Engineer · Open Source Builder              ║
+║   Systems Architect · Mission-Driven Technologist            ║
 ║                                                              ║
-║   Rooted in purpose. Built to serve.                        ║
+║   Rooted in purpose. Built to serve.                         ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
