@@ -29,7 +29,7 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/me%40roblucien.com-4AF626?style=flat-square&logo=minutemailer&logoColor=black)](mailto:me@roblucien.com)
+[![Email](https://img.shields.io/badge/root%40roblucien.com-4AF626?style=flat-square&logo=minutemailer&logoColor=black)](mailto:root@roblucien.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-roblucien-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/roblucien)
 [![Website](https://img.shields.io/badge/roblucien.com-555555?style=flat-square&logo=firefox&logoColor=white)](https://roblucien.com)
 
@@ -354,7 +354,7 @@ Every project is a step in that direction.
 | 🌐 Website | [roblucien.com](https://roblucien.com) |
 | 💼 LinkedIn | [Rob Lucien](https://linkedin.com/in/roblucien) |
 | 🤝 La Paix Foundation | [lapaixfoundation.org](https://lapaixfoundation.org) |
-| 📧 Email | [me@roblucien.com](mailto:me@roblucien.com) |
+| 📧 Email | [root@roblucien.com](mailto:root@roblucien.com) |
 
 Open to conversations about: open-source collaboration · infrastructure projects · mission-driven technology · nonprofit tech support · community impact
 
