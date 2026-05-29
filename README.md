@@ -164,10 +164,10 @@ Features include:
 ```
 
 **Primary environments:** FreeBSD · Debian · Proxmox · Linux  
-**Networking stack:** Cisco · Fortinet · Juniper · DNS architecture · VPNs · Reverse proxies · Network hardening  
-**Self-hosted tools:** Caddy · Zabbix · GLPI · Samba · Tailscale  
-**Automation & scripting:** Bash · Shell · Infrastructure as Code  
-**Virtualization:** Proxmox · Hybrid infrastructure · VM orchestration  
+**Networking stack:** Cisco · Fortinet · Juniper · OPNsense · VPNs · Reverse proxies · Network hardening  
+**Self-hosted tools:** Caddy · Zabbix · GLPI · Samba · Tailscale · Podman  
+**Automation & scripting:** Bash · Shell · Infrastructure as Code · Learning Python  
+**Virtualization:** Proxmox · Sylve · Hybrid infrastructure · Jial & Bhyve · VM orchestration  
 
 I run my own infrastructure. I self-host my own services. I believe in owning your stack.
 
@@ -353,14 +353,14 @@ These aren't side projects. They are why the other projects exist.
 
 ## `$ tail -f /var/log/learning.log`
 
-Right now I'm actively investing in:
+Right now I'm investing in:
 
 - Frontend architecture patterns with vanilla tooling
-- Infrastructure as Code pipelines — deepening Terraform proficiency
+- Infrastructure as Code pipelines,deepening Terraform proficiency
 - Open-source contribution workflows
 - Platform design and product thinking
 - Deepening FreeBSD administration and BSD ecosystem contributions
-- Building SudoServe — the long road, the right way
+- Building SudoServe, the long road, the right way
 
 > *I learn by building. I build to serve. The cycle continues.*
 
@@ -372,11 +372,11 @@ The vision is not a destination. It's a direction.
 
 A future where:
 - SudoServe becomes a recognized open-source initiative where technology and faith intersect
-- Y2H and La Paix Foundation operate on purpose-built platforms — not borrowed tools
+- 4VEH, immiGrand, Y2H and La Paix Foundation operate on purpose-built platforms, not borrowed tools
 - My infrastructure work enables nonprofits, independent builders, and underserved communities to own their digital presence
-- The engineer I'm becoming keeps growing: systems architect, frontend craftsman, open-source contributor, community builder
+- The engineer I'm becoming keeps growing: systems architect, frontend craftsman, open-source enthusiast, community builder
 
-Every project is a step in that direction.
+> *Every project is a step in that direction.*
 
 ---
 
