@@ -89,34 +89,6 @@ ROB      [learning]         → Deepening frontend craft, IaC pipelines, open so
 
 ---
 
-## `$ ls -la projects/`
-
-<br/>
-
-### ✦ SudoServe *(Coming)*
-
-Designing a full open-source platform from the ground up — self-hosted service stack, community infrastructure, and public tooling. Architecture-first, built intentionally, no shortcuts.
-
----
-
-### ✦ [Etudetoussaint.ca](https://etudetoussaint.ca)
-
-Designed and shipped a production client website end-to-end — hand-coded HTML5, CSS3, Bootstrap, JavaScript. No templates, no page builders, no frameworks.
-
----
-
-### ✦ [portail.immigrand.org](https://immigrand.org) *(In Development)*
-
-Architecting a large-scale multi-section portal from scratch — structured frontend, complex navigation patterns, production-grade UX, vanilla tooling throughout.
-
----
-
-### ✦ [porteouverte.4veh.org](https://4veh.org) *(In Development)*
-
-Engineering an online learning platform from scratch — built a floating PDF reader, quiz engine, progress tracking, and structured curriculum workflows in vanilla HTML/JS.
-
----
-
 ## `$ systemctl status infrastructure`
 
 ```
