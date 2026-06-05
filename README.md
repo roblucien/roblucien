@@ -197,6 +197,33 @@ Right now I'm investing in:
 
 ---
 
+## `$ rob --help`
+
+```
+Usage: rob [command] [options]
+
+Commands:
+  hire        Senior infrastructure engineer, 15+ years in production
+  collab      Open-source projects, self-hosted stacks, community tech
+  consult     Nonprofits, network hardening, platform architecture
+
+Flags:
+  --remote          Available
+  --freebsd         Preferred
+  --self-hosted     Always
+  --vanilla         No frameworks, no shortcuts
+  --faith-driven    Non-negotiable
+
+Examples:
+  rob hire --remote
+  rob collab --open-source
+  rob consult --nonprofit
+
+Run 'cat contact.md' to start a conversation.
+```
+
+---
+
 ## `$ cat contact.md`
 
 <div align="center">
