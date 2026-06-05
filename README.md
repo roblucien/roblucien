@@ -95,29 +95,25 @@ ROB      [learning]         → Deepening frontend craft, IaC pipelines, open so
 
 ### ✦ SudoServe *(Coming)*
 
-> **Root access to serve. Not a command — a calling.**
-
-A God-centered open-source initiative — open infrastructure, self-hosted tools, and community services built on the conviction that the greatest use of technical power is humble, sacrificial service.
-
-> *Being built intentionally, prayerfully, with full conviction.*
+Designing a full open-source platform from the ground up — self-hosted service stack, community infrastructure, and public tooling. Architecture-first, built intentionally, no shortcuts.
 
 ---
 
 ### ✦ [Etudetoussaint.ca](https://etudetoussaint.ca)
 
-Modern notary services website built from scratch — vanilla HTML5, CSS3, Bootstrap, JavaScript. Real client, real production. No frameworks, no shortcuts.
+Designed and shipped a production client website end-to-end — hand-coded HTML5, CSS3, Bootstrap, JavaScript. No templates, no page builders, no frameworks.
 
 ---
 
 ### ✦ [portail.immigrand.org](https://immigrand.org) *(In Development)*
 
-Enterprise-grade immigrant services portal engineered from the ground up — structured frontend architecture, user-centered design, vanilla tooling. Built for real people navigating real challenges.
+Architecting a large-scale multi-section portal from scratch — structured frontend, complex navigation patterns, production-grade UX, vanilla tooling throughout.
 
 ---
 
 ### ✦ [porteouverte.4veh.org](https://4veh.org) *(In Development)*
 
-Educational platform for Bible study and structured online learning — PDF lesson integration, quiz systems, progress tracking, accessible interface for all ages.
+Engineering an online learning platform from scratch — built a floating PDF reader, quiz engine, progress tracking, and structured curriculum workflows in vanilla HTML/JS.
 
 ---
 
