@@ -97,59 +97,27 @@ ROB      [learning]         → Deepening frontend craft, IaC pipelines, open so
 
 > **Root access to serve. Not a command — a calling.**
 
-In Linux, `sudo` grants root — the highest level of access, the power to act on the entire system. But the name *SudoServe* carries a deeper meaning.
+A God-centered open-source initiative — open infrastructure, self-hosted tools, and community services built on the conviction that the greatest use of technical power is humble, sacrificial service.
 
-**Sudo = Root. Root = Power. Power deployed in service = The Gospel in action.**
-
-SudoServe is a **God-centered technology initiative** — a future platform and open-source ecosystem built on the conviction that the greatest use of technical power is humble, sacrificial service. It takes its inspiration from the way Jesus led: not with authority over people, but *for* people. Not to be served, but to serve.
-
-The vision for SudoServe includes:
-- A hub for open infrastructure, self-hosted tools, and practical community services
-- A showcase for mission-driven engineering and digital craftsmanship
-- A platform where technology becomes a vehicle for the Gospel and community uplift
-- A long-term open-source initiative built with purpose, not profit
-
-> *This project is in its formative season — being built intentionally, prayerfully, and with full conviction.*
-> *The infrastructure is being laid. The mission is already clear.*
+> *Being built intentionally, prayerfully, with full conviction.*
 
 ---
 
 ### ✦ [Etudetoussaint.ca](https://etudetoussaint.ca)
 
-A **modern notary services website** built entirely from scratch — no frameworks, no templates, no shortcuts.
-
-- **Stack:** Vanilla HTML5 · CSS3 · Bootstrap · JavaScript
-- **What it demonstrates:** Clean UI/UX thinking, independent execution, rapid self-learning, and polished frontend delivery
-- Built as a real production project for a real client
-
-> *A systems engineer writing clean markup by hand — because craftsmanship doesn't stop at the terminal.*
+Modern notary services website built from scratch — vanilla HTML5, CSS3, Bootstrap, JavaScript. Real client, real production. No frameworks, no shortcuts.
 
 ---
 
 ### ✦ [portail.immigrand.org](https://immigrand.org) *(In Development)*
 
-An **enterprise-grade immigrant services portal** being engineered from the ground up.
-
-- Structured frontend architecture for complex, multi-section portals
-- User-centered design thinking applied to a high-stakes, real-world audience
-- Scalable, maintainable frontend patterns built with vanilla tooling
-- Designed to serve real people navigating real challenges
-
-> *Not a demo. Not a prototype. A platform for people who need it.*
+Enterprise-grade immigrant services portal engineered from the ground up — structured frontend architecture, user-centered design, vanilla tooling. Built for real people navigating real challenges.
 
 ---
 
-### ✦ [porteouverte.4veh.org](https://4veh.org) *(An Online Bible Study Platform In Development)*
+### ✦ [porteouverte.4veh.org](https://4veh.org) *(In Development)*
 
-An **educational platform for Bible study and structured online learning**, built from scratch with purpose at the center.
-
-Features include:
-- PDF lesson integration with floating lesson readers
-- Structured curriculum and course workflows
-- Quiz systems and educational progress tracking
-- Clean, accessible interface for all ages and backgrounds
-
-> *Technology in service of something eternal.*
+Educational platform for Bible study and structured online learning — PDF lesson integration, quiz systems, progress tracking, accessible interface for all ages.
 
 ---
 
@@ -175,23 +143,9 @@ I run my own infrastructure. I self-host my own services. I believe in owning yo
 
 ## `$ git log --oneline frontend-journey`
 
-Not long ago, my world was terminals, configs, and daemon logs.
+Not long ago, my world was terminals, configs, and daemon logs. Then something shifted. I picked up VSCodium, opened a blank `.html` file, and wrote the first `<div>` by hand. What began as curiosity is now a craft — a systems engineer who can ship interfaces.
 
-Then something shifted — a curiosity that grew into a habit, that grew into a skill.
-
-I picked up **VSCodium**. Opened a blank `.html` file. Wrote the first `<div>` by hand.
-
-Now I build real websites and platforms — from scratch, with intention. No drag-and-drop. No page builders. Just:
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-  <!-- deliberate. structured. mine. -->
-```
-
-**Current frontend stack:** HTML5 · CSS3 · Bootstrap · Vanilla JavaScript · VSCodium
-
-What began as curiosity is now a craft. A systems engineer who can ship interfaces — that changes what's possible.
+**Current stack:** HTML5 · CSS3 · Bootstrap · Vanilla JavaScript · VSCodium
 
 > *The terminal taught me precision. The browser taught me empathy.*
 
@@ -266,62 +220,27 @@ Certifications aren't the destination — they're waypoints. The real credential
 
 ### 4VEH — Voix Évangélique d'Haïti · Morne-Rouge, Cap-Haïtien
 
-**4VEH** is one of Haiti's most recognized evangelical broadcasters, a faith-driven radio and television station that has carried the Gospel across the island for decades, transmitting from the hills of Cap-Haïtien.
-
-For **12+ years**, I've been their voluntary IT infrastructure, the person who  helps keep the systems running so the mission keeps broadcasting.
-
-The work spans the full stack:
-- Deployed enterprise virtualization on **Proxmox** running on an HP server at the main facility
-- Redesigned core LAN from the ground up — new router, restructured logical architecture
-- Managed and updated their bilingual **(FR/EN) website** across multiple iterations
-- Supported their **digital platform** for online audiences worldwide
-- On-site user support, troubleshooting, and systems administration, consistently, for over a decade
-
-> *With prayers. With support. With encouragement. A calling answered, year after year.*
+One of Haiti's most recognized evangelical broadcasters. For **12+ years**, I've been their voluntary IT infrastructure — Proxmox virtualization, LAN redesign, bilingual website management, on-site support. Keeping the systems running so the mission keeps broadcasting.
 
 <br/>
 
 ### immiGrand — Quebec, Canada
 
-The name is intentional. *immiGRAND* — because those who come from afar are not burdens. They are builders. The French word **grand** says it all: great, resilient, strong. That is who immiGrand was built to serve — and to celebrate.
-
-**immiGrand** is a Canadian nonprofit dedicated to helping newcomers navigate the complexity of immigration, integrate into their communities with dignity, and be recognized for the greatness they bring.
-
-Their annual gala — **N.E.V.A.** *(Nos Étoiles Venues d'Ailleurs — Our Stars From Afar)* — puts the spotlight where it belongs: on immigrants in the Quebec region who have built something remarkable in their adopted home.
-
-I support immiGrand across every layer of their digital presence:
-- Website development, maintenance, and continuous updates
-- Branding and digital identity — shaping how they show up to the world
-- Full IT support for organizational and outreach operations
-- Technical backbone for campaigns and events, including the N.E.V.A. gala
-
-> *The community shows up for people. The infrastructure has to show up for the community.*
+Canadian nonprofit helping newcomers navigate immigration and integrate with dignity. Their annual **N.E.V.A.** gala *(Nos Étoiles Venues d'Ailleurs)* celebrates immigrants who've built something remarkable in their adopted home. I handle their full digital presence — website, branding, IT support, and event infrastructure.
 
 <br/>
 
 ### Y2H — Youth, Help Haiti
 
-**Y2H** is a registered nonprofit initiative with a single focus: *building a better future for Haitian communities through action, not promises.*
-
-- Supporting youth empowerment and community infrastructure in Haiti
-- Long-term engagement, not short-term charity
-- Technology-enabled outreach and organizational operations
-- Registered nonprofit. Real impact. Ongoing work.
+Registered nonprofit focused on youth empowerment and community infrastructure in Haiti. Long-term engagement, technology-enabled outreach, real impact.
 
 <br/>
 
 ### La Paix Foundation — Cap-Haïtien, Haiti
 
-I am actively working alongside **[La Paix Foundation](https://lapaixfoundation.org)**, a Florida-based faith-centered nonprofit reaching into **remote parts of Cap-Haïtien, Haiti** — bringing tangible help to communities that are often overlooked.
+Florida-based faith-centered nonprofit reaching into remote parts of Cap-Haïtien. Technology and logistics support for boots-on-the-ground outreach in some of Haiti's most underserved regions.
 
-This partnership means:
-- Boots-on-the-ground humanitarian work backed by organized infrastructure
-- Technology and logistics support for outreach operations
-- Bridging the gap between digital tools and ground-level community service
-- Faith-driven, dignity-first engagement in some of Haiti's most underserved regions
-
-> *The best engineers I know don't just build systems.*
-> *They build for people the world tends to forget.*
+> *The best engineers I know don't just build systems. They build for people the world tends to forget.*
 
 These aren't side projects. They are why the other projects exist.
 
@@ -363,20 +282,6 @@ Right now I'm investing in:
 - Building SudoServe, the long road, the right way
 
 > *I learn by building. I build to serve. The cycle continues.*
-
----
-
-## `$ cat vision.txt`
-
-The vision is not a destination. It's a direction.
-
-A future where:
-- SudoServe becomes a recognized open-source initiative where technology and faith intersect
-- 4VEH, immiGrand, Y2H and La Paix Foundation operate on purpose-built platforms, not borrowed tools
-- My infrastructure work enables nonprofits, independent builders, and underserved communities to own their digital presence
-- The engineer I'm becoming keeps growing: systems architect, frontend craftsman, open-source enthusiast, community builder
-
-> *Every project is a step in that direction.*
 
 ---
 
