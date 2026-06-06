@@ -39,7 +39,7 @@
 
 ## `$ whoami`
 
-I'm a systems engineer with **15+ years** in the field — across Linux, FreeBSD, Unix, hybrid infrastructure, networking, security, and automation. I believe technology is most powerful when it serves people with intention and integrity.
+I'm a systems engineer with **20+ years** in the field — across Linux, FreeBSD, Unix, hybrid infrastructure, networking, security, and automation. I believe technology is most powerful when it serves people with intention and integrity.
 
 My work sits at the intersection of:
 - Deep infrastructure operations and open-source engineering
